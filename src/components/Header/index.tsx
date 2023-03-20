@@ -6,7 +6,7 @@ const HeaderSection = () => {
         <div className="site-logo">
           <div className="logo">
             <a href="index.html">
-              <img src="assets/img/logo.svg" alt="image" />
+              <img src="assets/img/landing/fourbit-logo-invert.png" alt="image" />
             </a>
           </div>
         </div>
@@ -14,7 +14,7 @@ const HeaderSection = () => {
           <nav className="main-nav">
             <div className="mobile-menu-logo">
               <a href="index.html">
-                <img src="assets/img/logo-dark.svg" alt="" />
+                <img src="assets/img/landing/fourbit-logo-invert.png" alt="" />
               </a>
               <div className="remove">
                 <i className="bi bi-plus-lg"></i>

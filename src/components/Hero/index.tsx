@@ -3,7 +3,7 @@ const Hero = () => {
   return (
     <section className="hero-area">
       <div className="ken-burns-slideshow">
-        <img src="assets/img/hero-banner.jpg" alt="image" />
+        <img src="assets/img/landing/hero.jpeg" alt="image" />
       </div>
       <div className="verticale-social">
         <ul className="vertical-media">

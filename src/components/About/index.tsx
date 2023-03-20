@@ -23,11 +23,11 @@ const About = () => {
               </p>
               <div className="company-since">
                 <div className="company-logo">
-                  <img src="assets/img/logo-dark.svg" alt="" />
+                  <img src="assets/img/landing/fourbit-logo.png" alt="" />
                 </div>
                 <strong>#1</strong>
                 <h4>
-                  Best Creative IT Agency And Solutions <span>Since 2005.</span>
+                  Best Creative IT Agency And Solutions
                 </h4>
               </div>
             </div>
@@ -38,11 +38,11 @@ const About = () => {
             data-wow-duration="1500ms">
             <div className="about-right">
               <div className="banner-1">
-                <img src="assets/img/about-baner-1.jpg" alt="" />
+                <img src="assets/img/landing/about.jpeg" alt="" />
               </div>
               <div className="banner-2">
-                <img src="assets/img/about-baner-2.jpg" alt="" />
-                <div className="banner2-inner">
+                <img src="assets/img/landing/about-2.jpeg" alt="" />
+                {/* <div className="banner2-inner">
                   <div className="play">
                     <a
                       className="video-popup"
@@ -50,7 +50,7 @@ const About = () => {
                       <i className="fas fa-play"></i>
                     </a>
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
