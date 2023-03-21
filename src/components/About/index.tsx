@@ -1,4 +1,3 @@
-
 const About = () => {
   return (
     <section className="about-area sec-mar-bottom">
@@ -15,20 +14,18 @@ const About = () => {
             <div className="about-left">
               <h3>We do design, code & develop Software finally launch.</h3>
               <p>
-                Integer purus odio, placerat nec rhoncus in, ullamcorper nec
-                dolor. Class onlin aptent taciti sociosqu ad litora torquent per
-                conubia nostra, per inceptos only himenaeos. Praesent nec neque
-                at dolor venenatis consectetur eu quis ex. the Donec lacinia
-                placerat felis non aliquam.
+                Our company offers software development services, which involve
+                the process of designing, coding and developing software that
+                caters to diverse business needs. We ensure that the final
+                product is delivered to the highest standard through an
+                impressive launch.
               </p>
               <div className="company-since">
                 <div className="company-logo">
                   <img src="assets/img/landing/fourbit-logo.png" alt="" />
                 </div>
                 <strong>#1</strong>
-                <h4>
-                  Best Creative IT Agency And Solutions
-                </h4>
+                <h4>Best Creative IT Agency And Solutions</h4>
               </div>
             </div>
           </div>

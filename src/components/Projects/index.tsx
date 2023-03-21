@@ -1,4 +1,3 @@
-
 const Projects = () => {
   return (
     <section className="project-area sec-mar">
@@ -8,13 +7,13 @@ const Projects = () => {
             <span>Case Study</span>
             <h2>Project</h2>
             <p>
-              Curabitur sed facilisis erat. Vestibulum pharetra eros eget
-              fringilla porttitor. on Duis a orci nunc. Suspendisse ac convallis
-              sapien, quis commodo libero.
+              Our organization has successfully executed numerous projects
+              across various markets and is currently catering to a diverse
+              global clientele.
             </p>
           </div>
         </div>
-        <div className="row">
+        {/* <div className="row">
           <div className="col-12">
             <ul className="isotope-menu">
               <li className="active" data-filter="*">
@@ -26,7 +25,7 @@ const Projects = () => {
               <li data-filter=".graphic">Graphic Design</li>
             </ul>
           </div>
-        </div>
+        </div> */}
         <div className="row g-4 project-items">
           <div className="col-md-6 col-lg-4 single-item graphic ui">
             <div className="item-img">
