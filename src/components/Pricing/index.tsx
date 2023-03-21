@@ -9,9 +9,9 @@ const Pricing = () => {
             <span>Getting Start</span>
             <h2>Pricing Plan</h2>
             <p>
-              Curabitur sed facilisis erat. Vestibulum pharetra eros eget
-              fringilla porttitor. on Duis a orci nunc. Suspendisse ac convallis
-              sapien, quis commodo libero.
+              We offer customizable pricing plans based on individual
+              requirements. Contact us to discuss your needs and tailor a plan
+              accordingly.
             </p>
           </div>
         </div>

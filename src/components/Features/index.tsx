@@ -1,4 +1,3 @@
-
 const Features = () => {
   return (
     <section className="features-area">
@@ -11,9 +10,10 @@ const Features = () => {
             <span>Care Study</span>
             <h2>Features</h2>
             <p>
-              Curabitur sed facilisis erat. Vestibulum pharetra eros eget
-              fringilla porttitor. on Duis a orci nunc. Suspendisse ac convallis
-              sapien, quis commodo libero.
+              At our company, we hold a deep commitment to our clients and are
+              resolute in our mission to exceed their expectations. Our team of
+              seasoned professionals works tirelessly to deliver exceptional
+              quality products within the given timeframe.
             </p>
           </div>
         </div>
@@ -72,7 +72,7 @@ const Features = () => {
                 <div className="icon">
                   <img src="assets/img/icons/feature-icon-4.png" alt="" />
                 </div>
-                <span className="counter">28</span>
+                <span className="counter">2</span>
                 <sup>+</sup>
                 <h4>Win Awards</h4>
               </div>

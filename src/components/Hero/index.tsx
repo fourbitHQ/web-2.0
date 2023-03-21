@@ -1,11 +1,10 @@
-
 const Hero = () => {
   return (
     <section className="hero-area">
       <div className="ken-burns-slideshow">
         <img src="assets/img/landing/hero.jpeg" alt="image" />
       </div>
-      <div className="verticale-social">
+      {/* <div className="verticale-social">
         <ul className="vertical-media">
           <li>
             <a href="https://www.facebook.com/">Facebook</a>
@@ -17,20 +16,21 @@ const Hero = () => {
             <a href="https://www.linkedin.com/">Linkedin</a>
           </li>
         </ul>
-      </div>
+      </div> */}
       <div className="hero-wrapper">
         <div className="container">
           <div className="row">
             <div className="col-lg-6">
               <div className="hero-content">
                 <h1>
-                  Creative & Minimal<span>It Agency.</span>
+                  Revolutionize Your Tech Game with <span>FourBit</span>
                 </h1>
                 <p>
-                  Curabitur sed facilisis erat. Vestibulum pharetra eros eget
-                  fringilla porttitor. ol Duis a orci nunc. Suspendisse ac
-                  convallis sapien, quis commodo libero. Donec nec dui luctus,
-                  pellentesque lacus sed, mollis leo.
+                  Whether you're looking to develop a new application, redesign
+                  your website, or improve your IT infrastructure, our team is
+                  here to help. We pride ourselves on delivering quality work
+                  that exceeds expectations and providing exceptional customer
+                  service that fosters long-term relationships with our clients.
                 </p>
                 <div className="buttons">
                   <div className="cmn-btn">
